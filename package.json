@@ -1,0 +1,24 @@
+{
+  "name": "courier-logistics-website",
+  "version": "1.0.0",
+  "description": "A modern, responsive courier logistics website built with HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build process needed'",
+    "start": "echo 'Static site - use local server to preview'"
+  },
+  "keywords": [
+    "courier",
+    "logistics",
+    "website",
+    "html",
+    "css",
+    "javascript",
+    "responsive"
+  ],
+  "author": "Prince Kumar Jha",
+  "license": "MIT",
+  "homepage": "https://princekumarjha83-oss.github.io/courier-logistics/",
+  "devDependencies": {},
+  "dependencies": {}
+}

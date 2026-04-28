@@ -1,0 +1,15 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - npm install
+    build:
+      commands:
+        - echo "Build completed - Static HTML/CSS/JS site"
+  artifacts:
+    baseDirectory: ./
+    files:
+      - '**/*'
+  cache:
+    paths: []
